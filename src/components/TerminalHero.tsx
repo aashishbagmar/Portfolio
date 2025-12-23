@@ -162,7 +162,7 @@ const TerminalHero = () => {
 				<div className="mt-8 sm:mt-12 grid grid-cols-3 gap-4 sm:gap-8 max-w-2xl mx-auto">
 					{[
 						{ label: "Projects", value: "25+" },
-						{ label: "Technologies", value: "35+" },
+						{ label: "Technologies", value: "30+" },
 						{ label: "Cups of Coffee", value: "∞" },
 					].map((stat, idx) => (
 						<div key={idx} className="text-center">
